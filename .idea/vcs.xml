@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bloglist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/components/components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsxtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seasons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/songs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streams/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ythooks" vcs="Git" />
+  </component>
+</project>

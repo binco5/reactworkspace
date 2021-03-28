@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d25ba3f1-298a-42d2-83dc-1976078f39d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/src/approvalCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/src/commentDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/components" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ppbzv8gnE8wrjZmHaWrHhVaLxc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615889598137">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615889598137" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1615892128313">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615884914532" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615892128313" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1615892128311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615884914528" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/-1920.23.1920.1057/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615892128311" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1615892128310">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615884914526" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/-1920.23.1920.1057/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615892128310" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1615892128312">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615884914529" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/-1920.23.1920.1057/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1615892128312" />
+    <state x="389" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615885273125">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="389" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1080/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1615885273125" />
+  </component>
+</project>

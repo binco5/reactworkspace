@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fa4c45e-5621-4b88-b9c9-4ad5f3b4f75c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/reactworkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/apis/jsonPlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/components/PostList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/components/UserHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/reducers/postsReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bloglist/src/reducers/usersReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/components.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/components/src/approvalCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/components/src/commentDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsxtest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/api/unsplash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/components/ImageCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/components/ImageList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pics/src/components/imageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons/src/Spinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons/src/seasonDisplay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seasons/src/seasonDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/src/components/SongDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/src/components/SongList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songs/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/actions/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/GoogleAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/streams/StreamCreate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/streams/StreamDelete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/streams/StreamEdit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/streams/StreamList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/components/streams/StreamShow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Convert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/widgets/src/components/Translate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/api/youTube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/VideoDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/VideoItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/VideoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yt/src/components/VideoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/api/youTube.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/VideoDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/VideoItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/VideoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/components/VideoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ythooks/src/hooks/useVideos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloglist/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloglist/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/components/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/components/components/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/components/components/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/components/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsxtest/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsxtest/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pics/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pics/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/pics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pics/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pics/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pics/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/seasons/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasons/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/songs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/songs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/songs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/songs/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/songs/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/streams/client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/streams/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/streams/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/streams/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/streams/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/client/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/widgets/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/yt/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/yt/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/yt/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/yt/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yt/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ythooks/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ythooks/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ythooks/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ythooks/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/ythooks/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ythooks/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qCWy364xpRmvf7RC5Zj37nUCCe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
